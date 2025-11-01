@@ -68,9 +68,9 @@
 
 ---
 
-### 🐍 Contribution Snake:
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sina-pourrajabi/sina-pourrajabi/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/sinaprj-web/sinaprj-web/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
