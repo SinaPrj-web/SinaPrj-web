@@ -32,15 +32,28 @@
 ---
 
 ### 🧩 GitHub Stats & Activity:
+### 🧩 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sina-pourrajabi&theme=onedark&no-frame=true&row=1&column=6" />
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=sina-pourrajabi&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sina-pourrajabi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sina-pourrajabi&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sina-pourrajabi&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sina-pourrajabi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=sina-pourrajabi&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sina-pourrajabi&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 ---
 
